@@ -1,7 +1,7 @@
 def myfibfunc():
 
 
-    usernum=(input("Enter your chosen n where n is the nth number in the Fibonacci sequence, or enter QUIT: "))
+    usernum=(input("Please enter your chosen n where n is the nth number in the Fibonacci sequence, or enter QUIT: "))
     def fibfunc(usernum):
         num1 = 0
         num2 = 1
